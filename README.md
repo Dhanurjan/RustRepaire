@@ -1,14 +1,12 @@
 # solid-disco
-	Group Leader Name - S.Dhanurjan
-	Group Members Details :
-	
-          S.Dhanurjan (IT19225098)
-	  P.Lasikumar (IT16140530)
-	  M.C.Sahayarajah (IT19246888)
-	  
-	  
-	  
-Member IT Number	Tasks Allocated by Numbers separated by a comma
+Group Leader Name - S.Dhanurjan
+
+Group Members Details :
+S.Dhanurjan (IT19225098)
+P.Lasikumar (IT16140530)
+M.C.Sahayarajah (IT19246888)
+        
+Member IT Number and Tasks Allocated :
 
 IT19225098		•	Manage Repair Jobs (Add,Update,Remove), 
                 	•	Manage Vehicle Restoration Jobs (Add,Update,Remove), 
