@@ -1,6 +1,4 @@
 # solid-disco
-Group Leader Name - S.Dhanurjan
-
 Group Members Details : 
 S.Dhanurjan (IT19225098),
 P.Lasikumar (IT16140530),
